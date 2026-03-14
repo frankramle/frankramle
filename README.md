@@ -9,7 +9,7 @@
 <!-- BADGES CONTACTO -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faramosleon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faramosleon)
 [![Gmail](https://img.shields.io/badge/Gmail-frankramle@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frankramle@gmail.com)
-[![Remote](https://img.shields.io/badge/📍_Disponible_Remoto-España-00B4D8?style=for-the-badge&logo=googlemeet&logoColor=white)](https://www.linkedin.com/in/faramosleon)
+[![Remote](https://img.shields.io/badge/📍_Disponible_Remoto-España%20%7C%20LATAM-00B4D8?style=for-the-badge&logo=googlemeet&logoColor=white)
 
 </div>
 
